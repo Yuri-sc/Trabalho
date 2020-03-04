@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|Indie+Flower&display=swap');
+body {
+    font-family: 'Luckiest Guy', sans-serif;
+    font-size: 1.3em;
+}
+
+.text-title {
+    font-family: 'Akronim', cursive;
+    font-size: 7em;
+    color: #fff;
+}
+
+.text-subtitle {
+    font-family: 'Luckiest Guy', sans-serif;
+    color: #fff;
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #192a56, #192a, #192a56);
+}
