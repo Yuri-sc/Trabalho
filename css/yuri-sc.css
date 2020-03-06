@@ -18,5 +18,7 @@ body {
 }
 
 .bg-title {
-    background-image: linear-gradient(to bottom right, #192a56, #192a, #192a56);
+    /*background-image: linear-gradient(to bottom right, #192a56, #192a, #192a56);
+    */
+    background: url('../img/b.jpg') center no-repeat;
 }
