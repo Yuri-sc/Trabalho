@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Akronim|Indie+Flower&display=swap');
 body {
     font-family: 'Luckiest Guy', sans-serif;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 .text-title {
@@ -21,4 +21,7 @@ body {
     /*background-image: linear-gradient(to bottom right, #192a56, #192a, #192a56);
     */
     background: url('../img/b.jpg') center no-repeat;
+}
+.bg-footer{
+    background-image: linear-gradient(to bottom right, #192a56, #192a56);
 }
